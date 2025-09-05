@@ -1,4 +1,4 @@
-# Olá, eu sou o Gustta 👋
+# Olá, eu sou o Gustavo 👋
 
 - 🎓 Sou desenvolvedor FullStack, atualmente bolsista do banco do nordeste em dedsenvolvimento fullstack.
 - 💻 Curto criar aplicações web modernas utilizando React e Node.  
