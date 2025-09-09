@@ -1,6 +1,6 @@
 # Olá, eu sou o Gustavo 👋
 
-- 🎓 Sou desenvolvedor FullStack, atualmente bolsista do banco do nordeste em dedsenvolvimento fullstack.
+- 🎓 Sou desenvolvedor FullStack, atualmente bolsista do banco do nordeste com React+TS e Java.
 - 💻 Curto criar aplicações web modernas utilizando React e Node.  
 - 🌱 Sempre me aperfeiçoando nas tecnologias.
 
